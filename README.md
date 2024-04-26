@@ -1,4 +1,4 @@
-# Modeling_of_Uran_Development_using_CA
+# Modeling_of_Urban_Development_using_CA
 Исследовательский проект на тему: Моделирование развития городов с помощью клеточных автоматов
 
 Выполнил: Леонтенков Егор Евгеньевич
